@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20devs!%20👻&reversal=false&animation=fadeIn&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello,%20devs!%20👻&reversal=false&animation=fadeIn&fontSize=60"/>
 </p>
 
 <p align="center">
+  <a href="portfolio">
+    <img height="50" src="https://github.com/user-attachments/assets/1bd438d4-ff2c-4a31-9be8-2934aa7c7728"/>
+  </a>
   <a href="https://www.instagram.com/thesuryanshsharma/">
     <img height="50" src="https://github.com/user-attachments/assets/d8eeb8e3-f2d4-4ee4-b8eb-e55cb2f455bb"/>
   </a>
@@ -18,5 +21,9 @@
    <a href="telegram">
     <img height="50" src="https://github.com/user-attachments/assets/415551cb-e4f4-416a-9391-983140cc2aea"/>
   </a>
+   <a href="twitter">
+    <img height="50" src="https://github.com/user-attachments/assets/15fd0fd0-f2a2-4d19-8954-a8e31ae25105"/>
+  </a>
 </p>
+
 
