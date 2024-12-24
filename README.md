@@ -79,4 +79,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width="30" height="30"/>
 </p>
 
-[![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh9315)](https://github.com/anuraghazra/github-readme-stats)
+[![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh9315)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
