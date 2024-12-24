@@ -30,7 +30,7 @@
   <img src="https://i.giphy.com/3o6fJdYXEvMa5ZmlI4.webp"/>
 </p>
 
-<h2> 👨‍💻 &nbsp;Tools I’ve Worked With and Grown Familiar With</h2>
+<h1> 👨‍💻 &nbsp;Tools I’ve Worked With and Grown Familiar With</h1>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
@@ -79,4 +79,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width="30" height="30"/>
 </p>
 
+<h1> 📃 &nbsp;Github History</h1>
 [![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh9315&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
