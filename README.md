@@ -30,5 +30,10 @@
   <img src="https://i.giphy.com/3o6fJdYXEvMa5ZmlI4.webp"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suryansh9315)](https://git.io/streak-stats)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  
+</p>
 
