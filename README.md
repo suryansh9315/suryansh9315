@@ -78,3 +78,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width="30" height="30"/>
 </p>
+
+![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh9315)
