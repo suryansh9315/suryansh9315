@@ -30,6 +30,8 @@
   <img src="https://i.giphy.com/3o6fJdYXEvMa5ZmlI4.webp"/>
 </p>
 
+<br />
+
 <h2> 👨‍💻 &nbsp;Tools I’ve Worked With and Grown Familiar With</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -55,4 +57,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" height="40"/>
 </p>
 
-![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh9315&show_icons=true&theme=transparent)
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=suryansh9315&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh9315&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+<br />
